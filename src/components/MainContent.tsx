@@ -25,14 +25,14 @@ function MainContent(): JSX.Element {
         postDate={{ month: "March", day: 3, year: 2003 }}
       />
       <JournalEntry
-        title={"Dreaming of Stones"}
-        tags={["dreams", "sleep", "insights"]}
+        title="Writing poetry"
+        tags={["poetry", "meta"]}
         body={
-          "Recently, I've been trying out a new tactic to try to help myself fall asleep: counting stones. Normally, we count sheep to fall asleep - my problem is that I think sheep are fascinating animals, so this really doesn't help me. However, I think we can all agree that stones are boring (sorry, geologists) - so I've been counting stones instead!"
+          " Being creative... I'd like to do more of it. I'll write some haikus!"
         }
-        views={10}
-        likes={5}
-        postDate={{ month: "March", day: 3, year: 2003 }}
+        views={93}
+        likes={11}
+        postDate={{ month: "March", day: 2, year: 2003 }}
       />
       <section>
         <h2>Writing poetry</h2>
